@@ -26,4 +26,4 @@ Proyek ini bertujuan untuk menemukan pola pembelian konsumen menggunakan metode 
 ## Link Portofolio
 https://sites.google.com/view/asosiasi-data-mining
 
-## Link Video Presentasi
+## Link Youtube
