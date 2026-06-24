@@ -1,4 +1,4 @@
-# UAS_Asosiasi
+
 
 ## Analisis Pola Pembelian Konsumen Menggunakan Algoritma Apriori pada Dataset Online Retail
 
@@ -24,7 +24,6 @@ Proyek ini bertujuan untuk menemukan pola pembelian konsumen menggunakan metode 
 - Average Lift Ratio : 21.35
 
 ## Link Portofolio
-https://sites.google.com/view/portofolio-anda
+https://sites.google.com/view/asosiasi-data-mining
 
 ## Link Video Presentasi
-https://youtube.com/watch?v=xxxxxxxx
