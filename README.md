@@ -63,7 +63,7 @@ Menyajikan hasil analisis dalam bentuk visualisasi dan rekomendasi bisnis yang d
 
 ## Video Presentasi
 
-🔗 Tambahkan link YouTube di sini
+🔗 https://youtu.be/Q3HIARZUcgs?si=wZO0WDFcC6s1AZBj
 
 ## Dataset
 
