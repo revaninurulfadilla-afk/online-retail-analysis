@@ -72,5 +72,5 @@ Menyajikan hasil analisis dalam bentuk visualisasi dan rekomendasi bisnis yang d
 ---
 
 **Author:** Revani Nurul Fadilla
-**Program Studi:** Sistem Informasi  
-**Tools:** Jupyter Notebook / Google Colab / Python
+
+**Program Studi:** Sistem Informasi 
